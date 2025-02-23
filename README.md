@@ -31,7 +31,7 @@ O projeto portfólio serve para apresentar minhas habilidades, experiências e p
   Este projeto está sob a licença [MIT](https://choosealicense.com/licenses/mit/)
 
   🌐 Confira Meu Projeto: 
-    Você pode ver o projeto ao vivo aqui:
+    Você pode ver o projeto ao vivo aqui: https://portifolio-dantas.vercel.app/
 
 📫 Como Me Encontrar: 
 
